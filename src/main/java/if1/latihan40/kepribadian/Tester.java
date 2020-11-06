@@ -7,8 +7,14 @@ package if1.latihan40.kepribadian;
 
 /**
  *
- * @author ASUS
+ * @author
+ * NAMA  : Rachman Aldiansyah
+ * KELAS : IF-1
+ * NIM   : 10119038
+ * Deskripsi Program : program ini berisi untuk menampilkan hasil masukkan
+ *                     seorang user
  */
+
 import java.util.Scanner;
 
 public class Tester {
@@ -17,6 +23,6 @@ public class Tester {
         user.masukkanWarna();
         user.masukkanNama();
         user.menentukanKepribadian();
-        System.out.println("Developed by : Ivan Faathirza");
+        System.out.println("Developed by : Rachman Aldiansyah");
     }
 }
